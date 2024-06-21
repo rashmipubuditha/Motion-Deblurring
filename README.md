@@ -26,9 +26,13 @@
 <h2 id="examples">Examples</h2>
 <p>Below are some examples of blurred and deblurred images:</p>
 <p>Before:</p>
-<img src="examples/blurred_image.png" alt="Blurred Image" width="300">
+<img src="image_1.jpg" alt="Blurred Image" width="300">
+<img src="image_2.jpg" alt="Blurred Image" width="300">
+<img src="image_3.jpg" alt="Blurred Image" width="300">
 <p>After:</p>
-<img src="examples/deblurred_image.png" alt="Deblurred Image" width="300">
+<img src="deconvolved_image_1.jpg" alt="Deblurred Image" width="300">
+<img src="deconvolved_image_2.jpg" alt="Deblurred Image" width="300">
+<img src="deconvolved_image_3.jpg" alt="Deblurred Image" width="300">
 
 <h2 id="contributing">Contributing</h2>
 <p>We welcome contributions to this project! If you have any ideas or improvements, please feel free to open an issue or submit a pull request.</p>
